@@ -1,0 +1,362 @@
+body{
+
+margin:0;
+padding:0;
+font:helvetica,verdana,sana-serif;
+background:#000;
+}
+#left h3{
+
+color:#A0724C;
+font-size:16px;
+font-weight:bold;
+margin-top:1px;
+margin-left:10px;
+float:left;
+}
+#left h4 a:hover{
+
+border-radius:4px;
+color:#ffffff;
+background:#3B8119;
+}
+#left h4 a{
+
+text-decoration:none;
+font-size:13px;
+color:#847A67;
+}
+#left h4{
+margin-top:14px;
+margin-right:20px;
+float:right;
+}
+#left p{
+
+float:left;
+text-align:justify;
+font-size:14px;
+margin-right:30px;
+}
+#left h2{
+
+float:left;
+margin-top:16px;
+margin-left:-110px;
+font-size:20px;
+}
+#images1010{
+
+
+float:right;
+margin-right:130px;
+margin-top:5px;
+}
+#rana img{
+
+float:left;
+padding-top:80px;
+padding-top:-90px;
+}
+#rana{
+
+
+height:150px;
+width:530px;
+background:#D4CAB6;
+float:left;
+margin-top:-40px;
+}
+#rana img{
+
+
+margin:10px;
+}
+#mina{
+
+
+float:left;
+margin-top:80px;
+color:#000000;
+margin-left:-130px;
+}
+#mina p a:hover{
+
+
+color:#ffffff;
+background:#5A1411;
+border-radius:6px;
+}
+#mina p a{
+
+font-size:15px;
+
+text-decoration:none;
+color:#F37E76;
+}
+#images2{
+
+
+float:right;
+margin-top:20px;
+margin-right:40px;
+}
+#valo ul li a:hover{
+
+
+color:#ffffff;
+background:#4B4BF9;
+}
+#end img{
+
+padding-left:20px;
+}
+#last p a:hover{
+
+
+color:#ffffff;
+background:#3FBC28;
+border-radius:5px;
+}
+#last p a{
+
+
+text-decoration:none;
+color:#ff00ff;
+}
+#LAST P{
+color:#66052C;
+float:left;
+margin-left:60px;
+margin-bottom:7px;
+
+}
+#last{
+
+height:40px;
+width:100%;
+background:#C0B5A1;
+}
+#END h2{
+
+margin-left:330px;
+margin-top:-40px;
+
+}
+#END h1{
+margin-top:-40px;
+margin-left:600px;
+font-size:20px;
+color:#241C19;
+
+}
+
+#end p{
+
+margin-left:77px;
+color:#A14139;
+font-size:20px;
+margin-top:-90px;
+}
+
+#valo ul li a{text-decoration:none;
+color:#793842;}
+#valo{
+margin-top:20px;
+margin-left:-150px;
+float:left;
+
+}
+#left{
+margin-top:2px;
+float:right;
+height:250px;
+width:537px;
+background:#D4CAB6;
+}
+#end{
+
+height:170px;
+width:100%;
+background:#D4CAB6;
+
+}
+#left-down h2{
+
+float:left;
+font-size:20px;
+margin-top:10px;
+margin-left:10px;
+color:#6680FF;
+}
+#left-down{
+
+
+float:right;
+height:281px;
+width:537px;
+background:#D4CAB6;
+margin-top:2px;
+}
+#border{
+
+
+border-bottom:1px solid#3E3EFA;
+width:180px;
+margin-left:-30px;
+}
+#noha ul li{
+
+padding:5px 9px 8px 10px;
+list-style-type:none;
+}
+#noha ul li a:hover{
+
+-moz-transition:6s ease -1s;
+color:#397C23;
+background:#DD5322;
+padding-top:6px;
+padding-bottom:6px;
+
+}
+#noha ul li a{
+
+text-decoration:none;
+color:#000000;
+
+}
+#clear{
+
+clear:both;
+width:100%;
+}
+#categories p{
+float:left;
+margin-top:7px;
+margin-left:55px;
+color:#435243;
+font-size:16px;
+font-weight:bold;
+}
+#categories{
+
+float:left;
+height:32px;
+width:200px;
+background:#847A67;
+}
+#side-bar{
+margin-left:-200px;
+margin-top:34px;
+height:500px;
+width:200px;
+float:left;
+background:#D4CAB6;
+}
+
+#content{
+
+
+
+height:537px;
+width:100%;
+background:#FFFFFF;
+}
+h2{
+
+color:#435243;
+
+}
+#menu ul li{
+float:left;
+list-style-type:none;
+}
+#menu ul li a{
+padding:5px 15px 15px 15px;
+text-decoration:none;
+color:#ffffff;
+font-size:12px;
+font-weight:bold;
+}
+#menu ul li{
+
+
+border-right:1px solid#A5FEFD;
+}
+#menu ul li:last-child{
+
+
+border:0px;
+}
+#MENU{
+
+
+margin-top:-9px;
+margin-left:-42px;
+}
+#menu-area{
+float:left;
+height:30px;
+width:442px;
+background:#4B5360;
+margin-left:10px;
+margin-top:10px;
+}
+#box a{
+
+text-decoration:none;
+color:#ff00ff;
+background:#000000;
+border-radius:5px;
+}
+#box p{
+margin-top:-1px;
+float:left;
+color:#E3B415;
+}
+#shop{
+
+color:#ffffff;
+font-weight:bold;
+font-size:15px;
+float:left;
+}
+#box img{
+float:left;
+padding:12px;
+}
+#box{
+float:right;
+height:70px;
+width:220px;
+background:#4B5360;
+margin-right:30px;
+margin-top:-50px;
+border-radius:12px;
+}
+h4{
+
+color:#6A616E;
+margin-top:-27px;
+padding-left:12px;
+}
+#wrapper{
+padding-top:20px;
+
+
+width:740px;
+height:auto;
+margin:0 auto;
+}
+#images1{
+
+float:left;
+}
+#header{
+
+
+
+height:268px;
+width:100%;
+background:#D9D1BC;
+}
